@@ -1,0 +1,1 @@
+Xplorer is a simple file explorer based in python and pygame. this is more or less just a proof for another project, but may be of use as a standalone app.
