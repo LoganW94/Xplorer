@@ -223,7 +223,7 @@ class Tile(Button):
 
 class Display_Box(Button):
 
-	def __init__(self, screen, txt, x, y, height, width, font, color, active_state):
+	def __init__(self, screen, txt, x, y, height, width, font, active_state , color = (255,255,255)):
 		self._txt = txt
 		self.default_color = color
 		self.color = self.default_color
